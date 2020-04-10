@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: woodwind's blog
+SEOTitle: woodwind's blog
+email: woodwindjin@outlook.com
+url: "https://woodwind.github.io"
+
+sidebar: true
+RSS: false
